@@ -1,0 +1,9 @@
+temp={}
+temp['Sun']=33.4
+temp['Mon']=35.8
+temp['Tue']=33.7
+print(temp)
+temp1={'Sojib':'sojibakash@gmail.com' ,'ashik':'ashik1@gmail.com'}
+print(temp1)
+print(temp.keys())
+print(len(temp))
